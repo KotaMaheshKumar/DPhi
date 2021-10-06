@@ -1,4 +1,5 @@
-#Kota-Mahesh-Kumar
+
+#KotaMaheshKumar
 
 - 👋 Hi, I’m @KotaMaheshKumar
 - 👀 Interested in computer architecture including the various forms of technological assets like Data Analytics, Machine Learning, Artifical Intelliegence etc.
